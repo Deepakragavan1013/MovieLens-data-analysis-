@@ -33,7 +33,7 @@ print(users.head())
 
 """#**Install PySpark**"""
 
-!pip install pyspark
+pip install pyspark
 
 """**Set Up Spark Session**"""
 
